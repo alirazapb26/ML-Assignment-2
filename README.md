@@ -1,6 +1,10 @@
 # ML-Assignment-2
 # Name: ALI RAZA 
 
+
+
+# About Assignment
+
 Heart Disease Dataset (DS1)
 This project analyzes the Heart Disease dataset to explore the relationship between patient health indicators and the presence of heart disease. It involves preprocessing, clustering, feature selection, and classification using multiple machine learning models to predict heart disease risk.
 
